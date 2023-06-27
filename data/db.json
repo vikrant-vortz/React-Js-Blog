@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "1st post",
-      "datetime": "July 16, 2021 11:47:39 AM",
+      "datetime": "June 27, 2023 6:56:43 PM",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
@@ -41,6 +41,12 @@
       "title": "Finally Tutorial Ended",
       "datetime": "June 25, 2023 1:55:19 PM",
       "body": "I was wrong yesterday I was not able to complete the tutorial but I did it today\n"
+    },
+    {
+      "id": 8,
+      "title": "This is a new Post",
+      "datetime": "June 27, 2023 6:49:56 PM",
+      "body": "The app is working as expected and everything is fine.\nServer is live and the website is responsive as well"
     }
   ]
 }
